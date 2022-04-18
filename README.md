@@ -9,6 +9,8 @@ Task Completed
 -Elements follow a logical structure
 -comments are added to html and css files
 
+-i tried updating a new public page for my work but im trouble with it. so i just added .Horiseon.html at the end of the url to show the new public page
+
 Link to refactored page
 https://blaisesiocon.github.io/blaisesioconhw1/Horiseon.html
 
