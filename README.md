@@ -11,7 +11,7 @@ Task Completed
 
 -i tried updating a new public page for my work but im trouble with it. so i just added .Horiseon.html at the end of the url to show the new public page
 
-Link to refactored page
-https://blaisesiocon.github.io/blaisesioconhw1/Horiseon.html
+Link to refactored pagehttps:
+//github.com/BlaiseSiocon/blaisesioconhw1
 
-![Screenshot (5)](https://user-images.githubusercontent.com/102638267/163824707-45b72bb9-072f-4637-bb4f-5f55dd02b54b.png)
+
